@@ -1,10 +1,11 @@
 body {
   margin: 0px;
   padding: 0px;
+  min-height: 100vh;
 }
 
 .container {
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
   background: linear-gradient(to top, #E4AF9D 20%, #E4E4D8 50%, #A19887 80%);
   display: flex;
